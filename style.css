@@ -20,7 +20,7 @@ body {
     max-width: 800px;
     min-width: 320px;
     margin: auto;
-    padding: 50px;
+    padding-bottom: 50px;
 }
 
 .headline-1 {
