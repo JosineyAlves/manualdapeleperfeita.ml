@@ -47,8 +47,16 @@ body {
     color: #ffffff;
 }
 
-.img-fluid {
-    width: 40%;
+.img-sound {
+    margin-top: -10px;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.img-sound svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
 }
 
 .rodape {
