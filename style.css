@@ -5,7 +5,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-size: 100%;
-    background: rgb(8, 0, 45);
+    background: rgb(243, 243, 243);
 }
 
 body {
@@ -13,30 +13,12 @@ body {
     flex-direction: column;
 }
 
-.conteudo {
-    display: flex;
-    flex-direction: row;
+.container {
     text-align: center;
-    max-width: 800px;
+    max-width: 768px;
     min-width: 320px;
     margin: auto;
-    padding: 10px;
-}
-
-.headline-1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 24px;
-    line-height: 1.2;
-    color: #ffffff;
-}
-
-.headline-2 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    line-: 0;
-    color: #ffffff;
+    padding: 0px;
 }
 
 .rodape {
@@ -44,13 +26,8 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
     font-size: 13px;
-    background-color: rgb(7, 23, 74);
+    background-color: rgb(138, 9, 37);
     padding: 20px;
     text-align: center;
     color: white;
-}
-
-.rodape a {
-    color: white;
-    text-decoration: none;
 }
