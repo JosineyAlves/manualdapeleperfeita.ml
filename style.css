@@ -41,6 +41,16 @@ body {
     color: #ffffff;
 }
 
+.headline-2 {
+    font-weight: normal;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.img-fluid {
+    width: 40%;
+}
+
 .rodape {
     flex-shrink: 0;
     font-family: 'Roboto', sans-serif;
