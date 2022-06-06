@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 html,
 body {
-    height: 0;
+    height: 100%;
     margin: 0px;
     padding: 0px;
     font-size: 100%;
@@ -13,7 +13,7 @@ body {
     flex-direction: column;
 }
 
-.container {
+.conteudo {
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -21,10 +21,10 @@ body {
     min-width: 320px;
     margin: auto;
     padding: 10px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .headline-1 {
-    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 24px;
     line-height: 1.2;
@@ -32,8 +32,7 @@ body {
 }
 
 .headline-2 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
+    font-weight: normal;
     font-size: 20px;
     line-: 0;
     color: #ffffff;
