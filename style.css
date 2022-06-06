@@ -20,12 +20,12 @@ body {
     max-width: 768px;
     min-width: 275px;
     margin: auto;
-    padding: 0px;
+    padding: 10px;
     font-family: 'Roboto', sans-serif;
 }
 
 .img {
-    padding: 5px;
+    padding: 0px;
 }
 
 .headline-1 {
